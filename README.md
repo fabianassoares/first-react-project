@@ -1,2 +1,2 @@
-# first-react-project
-First project using React
+# First React Project
+
